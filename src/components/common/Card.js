@@ -29,4 +29,4 @@ const styles = {
   }
 };
 
-export default Card;
+export { Card: Card }; // because key and value are the same can be juts { Card }
