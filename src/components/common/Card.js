@@ -29,4 +29,4 @@ const styles = {
   }
 };
 
-export { Card: Card }; // because key and value are the same can be juts { Card }
+export { Card }; // because key and value are the same can be juts { Card }
